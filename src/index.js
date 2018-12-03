@@ -1,1 +1,1 @@
-console.log('webpack-boilerplate');
+console.log('webpack-boilerplate'); // eslint-disable-line
