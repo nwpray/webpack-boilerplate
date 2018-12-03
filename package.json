@@ -1,0 +1,24 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "0.0.1",
+  "description": "A webpack boilerplate for starting webpack projects",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwpray/webpack-boilerplate.git"
+  },
+  "keywords": [
+    "webpack",
+    "boilerplate",
+    "babel"
+  ],
+  "author": "Nick Pray <nickthepray@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nwpray/webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/nwpray/webpack-boilerplate#readme"
+}
