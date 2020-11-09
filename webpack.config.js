@@ -3,6 +3,7 @@ const CleanWebpackPlugin = require('clean-webpack-plugin');
 
 module.exports = {
   mode: 'development',
+  target: 'node',
   entry: {
     index: path.resolve('src/index.js')
   },
